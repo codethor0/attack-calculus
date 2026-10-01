@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+type: article
+title: "Attack Calculus: A Typed, Evidence-Aware State-Transition Calculus for Cross-Domain Cybersecurity Reasoning"
+authors:
+  - given-names: "Thor"
+    family-names: "Thor"
+    alias: "Isaac Thor"
+    email: "codethor@gmail.com"
+    affiliation: "Independent Open-Source Researcher"
+    orcid: "https://orcid.org/0009-0001-6573-385X"
+version: "1.0.0"
+date-released: "2026-10-01"
+license: CC-BY-4.0
+repository-code: "https://github.com/codethor0/attack-calculus"
+keywords:
+  - attack modeling
+  - state transitions
+  - automated planning
+  - evidence provenance
+  - formal methods
+  - defensive synthesis
+  - least privilege
+  - AI agent security
+  - incident reasoning
+references:
+  - type: article
+    title: "Mission-Invariant Architecture Morphing: Service-Graph Reconfiguration Against Post-Access Reconnaissance, with Cryptographic Epoch Isolation and Mission-Domain State Continuity"
+    authors:
+      - given-names: "Thor"
+        family-names: "Thor"
+    doi: "10.5281/zenodo.23001045"
+    year: 2026
