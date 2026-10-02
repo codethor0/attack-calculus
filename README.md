@@ -1,6 +1,6 @@
 # Attack Calculus (ACN)
 
-<!-- doi-badge --> [![Paper: CC BY 4.0](https://img.shields.io/badge/paper-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6573--385X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6573-385X)
+<!-- doi-badge --> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23092790.svg)](https://doi.org/10.5281/zenodo.23092790) [![Paper: CC BY 4.0](https://img.shields.io/badge/paper-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE) [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--6573--385X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-6573-385X)
 
 **A Typed, Evidence-Aware State-Transition Calculus for Cross-Domain Cybersecurity Reasoning**
 
@@ -68,6 +68,7 @@ Corrections, counterexamples, and implementations are welcome. Open an issue usi
 ## Citation
 
 <!-- doi-citation -->
+Thor, T. (2026). Attack Calculus: A Typed, Evidence-Aware State-Transition Calculus for Cross-Domain Cybersecurity Reasoning (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23092790
 Use the "Cite this repository" button on GitHub, or the metadata in `CITATION.cff`.
 
 ## Related work by the author
